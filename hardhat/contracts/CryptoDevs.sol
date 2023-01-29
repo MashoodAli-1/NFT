@@ -5,7 +5,8 @@ import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 import "./IWhitelist.sol";
 
-/* contract Address of crypto address = 0x5bCc4EC8616F5C616EF37D0F9A3cFaAD7ecfF3b6 */
+/* contract Address of crypto address = 0x5bCc4EC8616F5C616EF37D0F9A3cFaAD7ecfF3b6 
+   contract Address of crypto address = 0x47a4c1877F6540cE668CB74c083CB3131a78735f*/
 
 contract CryptoDevs is ERC721Enumerable, Ownable {
     /**
